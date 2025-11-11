@@ -1,0 +1,20 @@
+{
+  "feature_cols": [
+    "Marca",
+    "Modelo",
+    "Cor",
+    "Perfil_Rodagem_auto",
+    "Nota_Confianca_Marca",
+    "Nota_Confianca_Modelo",
+    "Nota_Aparencia",
+    "Quilometragem_Estimada",
+    "Ano",
+    "Idade",
+    "KM_Ano_auto"
+  ],
+  "quantis": [
+    0.1,
+    0.5,
+    0.9
+  ]
+}
